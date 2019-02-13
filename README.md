@@ -1,0 +1,1 @@
+#### This repo is purely for personal notes that help me remeber and practice some good tricks that i can use in my everyday python development.
